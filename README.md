@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-main bola
-makan
+main bola<br>
+makan nasi goreng
