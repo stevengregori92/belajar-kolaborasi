@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-main bola
-makan
+Belajar Github seruu<br>
+Belajar Coding Seru
